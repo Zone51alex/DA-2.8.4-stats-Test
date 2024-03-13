@@ -1,0 +1,25 @@
+{
+	"id":"DA_ZONE_Stats_patch",
+	"name":"DA 2.8.4 Stats Patch",
+	"author":"Zone51",
+	"version":"0.0.1",
+	"description":"just a Test Mod to test out 2.8.4 Stats on joestar's Fork",
+    "gameVersion": "0.97",
+	"dependencies": [
+        {
+            "id": "lw_lazylib",
+            "name": "LazyLib",
+            #"version": "2.6"
+        },
+        {
+            "id": "MagicLib",
+            "name": "MagicLib",
+            #"version": "2.6"
+        },
+		{
+            "id": "diableavionics",
+            "name": "Diable Avionics",
+            #"version": "2.7.6"
+        },
+    ],
+}
